@@ -1,0 +1,11 @@
+body{
+	background-color: #f7dbd0;
+
+}
+div{
+	width: 300px;
+	height: 200px;
+	padding: 40px;
+	margin: 40px;
+	border: 20px dashed red;
+}
